@@ -1,9 +1,5 @@
-import Translation from "../app/components/translation";
+import { redirect } from "next/dist/server/api-utils";
 
-export default function Home() {
-  return (
-    <div>
-      <Translation />
-    </div>
-  );
+export default function RootPage() {
+ redirect('/en');
 }

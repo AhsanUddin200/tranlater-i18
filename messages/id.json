@@ -1,5 +1,16 @@
 {
-    "HomePage": {
-      "title": "Hola Mundo!"
-    }
+  "IndexPage": {
+    "title": "Traductor de Next.js",
+    "description": "Bienvenido al Traductor de Internacionalización de Next.js en este ejemplo de uso del paquete next (i18n)! Esta demostración muestra el poder del App Router y cómo gestionar contenido multilingüe de manera fluida utilizando la Internacionalización de Next."
+  },
+  "NotFoundPage": {
+    "title": "Halaman Tidak Ditemukan",
+    "description": "Ups! Sepertinya Anda menemukan halaman yang tidak ada. Jangan khawatir, sihir internasionalisasi kami masih bekerja keras di bagian lain aplikasi. Silakan kembali untuk menjelajahi lebih lanjut!"
+  },
+  "Navigation": {
+    "home": "Beranda"
+  },
+  "Footer": {
+    "copyright": "© 2024 Aplikasi Anda. Hak cipta dilindungi."
   }
+}
